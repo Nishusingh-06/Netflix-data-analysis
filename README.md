@@ -72,7 +72,7 @@ Through this project, I improved my skills in:
 👩‍💻 Author
 
 Nishu Singh
-Aspiring Data Analyst skilled in Excel, SQL, Power BI, Python, and Data Visualization.
+
 
 snapshot of project - https://github.com/Nishusingh-06/Netflix-data-analysis/blob/main/Screenshot%202026-05-19%20135802.png
 
